@@ -29,8 +29,8 @@ Welcome to **Three FPS Exercise**, where we attempt to create a FPS-style game u
 
 ## Screenshots 📸  
 
-*(Placeholder for your glorious FPS screenshots—add some cool in-game shots here!)*  
-
+![Galaxy Foxy Screenshot](https://github.com/Tiger-Foxx/three-very-minimalist-fist-person-shooter/blob/main/screnn1%20(1).png)
+![Galaxy Foxy Screenshot](https://github.com/Tiger-Foxx/three-very-minimalist-fist-person-shooter/blob/main/scr.png)
 ---
 
 ## Why This Exists? 🤔
