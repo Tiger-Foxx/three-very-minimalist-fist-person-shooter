@@ -1,0 +1,10 @@
+# NPM
+node_modules
+npm-debug.log
+
+# Code Editor Settings
+.idea
+.vs
+
+# Build
+build
